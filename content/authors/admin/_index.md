@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "duttaash000@isd284.com".
-- icon: twitter
+- icon: AoPS
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://artofproblemsolving.com/community/my-aops
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
