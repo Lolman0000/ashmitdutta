@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ashmit Dutta
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: High School Student 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Wayzata High School
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My interests include physics (olympiad and research), and also math (currently taking calculus)
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Physics Olympiad
+- Mathematics (Number Theory, Calculus)
+- AI and Computer Science
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: High School Mathematics
+    institution: University of Minnesota (UMTYMP)
+    year: 2018
+  - course: AP Calc AB/BC
+    institution: Wayzata High School 
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "duttaash000@isd284.com".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
